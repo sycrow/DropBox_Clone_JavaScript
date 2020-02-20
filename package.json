@@ -1,0 +1,23 @@
+{
+  "name": "DropBox_Clone_JavaScript",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido baseado no Curso Completo de JavaScript da Hcode",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sycrow/DropBox_Clone_JavaScript"
+  },
+  "author": "Thiago Farias/Hcode Treinamentos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sycrow/DropBox_Clone_JavaScript/issues"
+  },
+  "homepage": "https://github.com/sycrow/DropBox_Clone_JavaScript#readme",
+  "dependencies": {
+    "ionicons": "^2.0.1",
+    "bootstrap": "^4.1.0"
+  }
+}
